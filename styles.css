@@ -62,6 +62,7 @@ body {
 
 @media (max-width: 768px) {
   .grid-container{
+    gap: 20px;
     grid-template-rows: auto;
     grid-template-areas: 
   
